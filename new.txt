@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:10:36	44157/44157	---MCZ	200	added ('OK')	text/html	date:Wed,%2030%20Mar%202022%2001:33:04%20GMT	https://netwatch.carrd.co/	/storage/emulated/0/HTTrack/Websites/net%20test/netwatch.carrd.co/index.html	(from )
+19:10:39	86/86	---M-Z	200	added ('OK')	text/plain	etag:%2246-5db6586f82330-gzip%22	https://netwatch.carrd.co/robots.txt		(from )
+19:10:40	637/637	---MCZ	403	error ('Forbidden')	text/html	date:Thu,%2009%20May%202024%2018:10:41%20GMT	https://netwatch.carrd.co/assets/images/card.jpg?v=3fa70ead	/storage/emulated/0/HTTrack/Websites/net%20test/netwatch.carrd.co/assets/images/card58ea.jpg	(from https://netwatch.carrd.co/)
+19:10:40	25919/25919	---MCZ	200	added ('OK')	image/svg+xml	etag:W/%22653f-5db64ed112690%22	https://netwatch.carrd.co/assets/images/bg.svg?v=3fa70ead	/storage/emulated/0/HTTrack/Websites/net%20test/netwatch.carrd.co/assets/images/bg58ea.svg	(from https://netwatch.carrd.co/)
+19:10:42	108002/108002	---M--	200	added ('OK')	image/jpeg	etag:%221a5e2-5db64ed117c80%22	https://netwatch.carrd.co/assets/images/image01.jpg?v=3fa70ead	/storage/emulated/0/HTTrack/Websites/net%20test/netwatch.carrd.co/assets/images/image0158ea.jpg	(from https://netwatch.carrd.co/)
